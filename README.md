@@ -48,7 +48,8 @@ Simmulate a real Ticket a end-user would typically create (The intake phase in t
 <img src="https://i.imgur.com/7eWXcVw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Assignment ensures that the right people handle the right tickets, improving workflow efficiency and accountability.
+Communication ensures that both agents and users stay informed throughout the lifecycle of a ticket, leading to quicker resolutions and higher customer satisfaction.
 </p>
 <br />
 
@@ -56,16 +57,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/bcsujqn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
-
+"Working the Issue" refers to the process of actively investigating, troubleshooting, and resolving a ticket after it has been assigned to an agent. This is the stage in the ticket lifecycle where agents or support staff take action to solve the user's problem or address their request. The focus is on problem-solving and providing a resolution based on the issue reported by the user.
 <p>
 <img src="https://i.imgur.com/83u3H1l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/sk6xEOE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/UlIoArC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Resolution is the final stage in the ticket lifecycle where the issue reported by the customer has been successfully addressed, and the ticket is closed. It's the point where the agent confirms that the problem has been resolved, and the user’s needs have been met. The goal of this phase is to ensure that the solution provided effectively fixes the issue and that the customer is satisfied.
 </p>
 <br />
