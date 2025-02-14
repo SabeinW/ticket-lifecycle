@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/SbDoGzD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Simmulate a real Ticket a end-user would typically create (The intake phase in the ticket lifecycle is the initial step where support tickets are created, categorized, and routed to the appropriate team or agent. It's a crucial part of the process because it sets the stage for the entire lifecycle of the ticket, ensuring that the issue is addressed properly, efficiently, and in a timely manner.).
 </p>
 <br />
 
